@@ -26,10 +26,6 @@
 
 ### Stats & Contribution
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p0ulofer&show_icons=true&theme=dracula" />
-</div>
-
 ##
 
 <picture>
