@@ -9,7 +9,7 @@
 
 #
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -24,7 +24,7 @@
 
 #
 
-### 📈 Stats & Contribution
+### Stats & Contribution
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=p0ulofer&show_icons=true&theme=dracula" alt="GitHub Stats" />
@@ -33,7 +33,7 @@
 ##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img alt="github-snake" src="./assets/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p0ulofer/p0ulofer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p0ulofer/p0ulofer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/p0ulofer/p0ulofer/output/github-snake.svg" />
 </picture>
