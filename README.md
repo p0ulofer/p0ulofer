@@ -17,13 +17,11 @@
 ### Languages and Tools
 
 
-### 🧑‍💻 Languages
-
 <table>
   <tr>
     <td valign="top" width="33%">
 
-### 🧑‍💻 Languages
+### Languages
 
 <p align="left">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -36,7 +34,7 @@
 
   <td valign="top" width="33%">
 
-### 🎨 Frontend
+### Frontend
 
 <p align="left">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -50,7 +48,7 @@
 
   <td valign="top" width="33%">
 
-### ⚙️ Backend
+### Backend
 
 <p align="left">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -64,7 +62,7 @@
   <tr>
     <td valign="top" width="33%">
 
-### 🗄️ Databases
+### Databases
 
 <p align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -76,17 +74,19 @@
 
   <td valign="top" width="33%">
 
-### 🛠️ DevOps
+### DevOps
 
 <p align="left">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
   </td>
 
   <td valign="top" width="33%">
 
-### 🔧 Tools
+### Tools
 
 <p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
