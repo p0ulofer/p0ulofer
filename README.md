@@ -11,9 +11,6 @@
 
 ### Languages and Tools
 
-### Languages and Tools
-
-### Languages and Tools
 
 <p align="left">
 
