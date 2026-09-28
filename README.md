@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
 
-**`Computing Student | Building with TypeScript & Python`**
+**`Computing Student`**
 
 </div>
 
